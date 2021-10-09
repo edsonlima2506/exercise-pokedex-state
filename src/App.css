@@ -55,7 +55,7 @@ body {
   border: none;
   cursor: pointer;
 }
-/* 
+
 @media screen and (max-width: 644px){
   .pokemon {
     display: flex;
@@ -79,5 +79,10 @@ body {
   .pokemon img {
     width: 300px;
     margin-top: 5px;
+    margin-left: 20px;
   } 
-} */
+
+  body {
+    background-size: cover;
+  }
+}
