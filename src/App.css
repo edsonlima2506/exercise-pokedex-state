@@ -6,11 +6,78 @@ body {
   text-align: center;
 }
 
+.title {
+  width: 278px;
+  height: 100px;
+  background-image: url(https://fontmeme.com/permalink/211009/d28472afb9a391904f9eab67724b5431.png);
+  background-size: cover;
+  margin: auto;
+}
+
 .pokemon {
   border: none;
 }
 
 .pokemon img {
   width: 300px;
-  margin-top: 250px;
+  margin-top: 180px;
 } 
+
+.pokemonInfo {
+  height: 250px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  background-image: url(./pokedex.png);
+  background-size: cover;
+  margin-bottom: 50px;
+}
+
+.pokemonInfo div {
+  margin-left: 100px;
+  margin-top: 120px;
+}
+
+.pokemonInfo p {
+  margin: 2px;
+  color: #51AD60;
+}
+
+.nextPokemon {
+  margin-top: 50px;
+  background-color: #51AD60;
+  color: #FFFFFF;
+  font-weight: 900;
+  width: 200px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+}
+/* 
+@media screen and (max-width: 644px){
+  .pokemon {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .pokemonInfo {
+    height: 220px;
+    width: 250px;
+  }
+
+  .pokemonInfo div {
+    margin-left: 85px;
+    margin-top: 85px;
+  }
+
+  .pokemonInfo p {
+    font-size: small;
+  }
+
+  .pokemon img {
+    width: 300px;
+    margin-top: 5px;
+  } 
+} */
