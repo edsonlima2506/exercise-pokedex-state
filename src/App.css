@@ -20,7 +20,7 @@ body {
 
 .pokemon img {
   width: 300px;
-  margin-top: 180px;
+  margin-top: 150px;
 } 
 
 .pokemonInfo {
@@ -47,12 +47,37 @@ body {
 
 .nextPokemon {
   margin-top: 50px;
+  margin-left: 10px;
   background-color: #51AD60;
   color: #FFFFFF;
   font-weight: 900;
   width: 200px;
   height: 30px;
   border: none;
+  cursor: pointer;
+}
+
+.prevPokemon {
+  margin-top: 50px;
+  margin-right: 10px;
+  background-color: #51AD60;
+  color: #FFFFFF;
+  font-weight: 900;
+  width: 200px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+}
+
+.typeButton {
+  width: 130px;
+  height: 40px;
+  margin: 20px;
+  border: none;
+  background-color: darkorange;
+  color: #FFFFFF;
+  font-weight: 900;
+  border-radius: 0px 10px 0px 10px;
   cursor: pointer;
 }
 

@@ -1,6 +1,6 @@
 const pokemons = [
   {
-      id: 25,
+      id: 0,
       name: "Pikachu",
       type: 'Electric',
       averageWeight: {
@@ -11,7 +11,7 @@ const pokemons = [
       moreInfo: "https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)"
   },
   {
-      id: 4,
+      id: 1,
       name: "Charmander",
       type: 'Fire',
       averageWeight: {
@@ -22,7 +22,7 @@ const pokemons = [
       moreInfo: "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon)"
   },
   {
-      id: 10,
+      id: 2,
       name: "Caterpie",
       type: 'Bug',
       averageWeight: {
@@ -33,7 +33,7 @@ const pokemons = [
       moreInfo: "https://bulbapedia.bulbagarden.net/wiki/Caterpie_(Pok%C3%A9mon)"
   },
   {
-      id: 23,
+      id: 3,
       name: "Ekans",
       type: 'Poison',
       averageWeight: {
@@ -44,7 +44,7 @@ const pokemons = [
       moreInfo: "https://bulbapedia.bulbagarden.net/wiki/Ekans_(Pok%C3%A9mon)"
   },
   {
-      id: 65,
+      id: 4,
       name: "Alakazam",
       type: 'Psychic',
       averageWeight: {
@@ -55,7 +55,7 @@ const pokemons = [
       moreInfo: "https://bulbapedia.bulbagarden.net/wiki/Alakazam_(Pok%C3%A9mon)"
   },
   {
-      id: 151,
+      id: 5,
       name: "Mew",
       type: 'Psychic',
       averageWeight: {
@@ -66,7 +66,7 @@ const pokemons = [
       moreInfo: "https://bulbapedia.bulbagarden.net/wiki/Mew_(Pok%C3%A9mon)"
   },
   {
-      id: 78,
+      id: 6,
       name: "Rapidash",
       type: 'Fire',
       averageWeight: {
@@ -77,7 +77,7 @@ const pokemons = [
       moreInfo: "https://bulbapedia.bulbagarden.net/wiki/Rapidash_(Pok%C3%A9mon)"
   },
   {
-      id: 143,
+      id: 7,
       name: "Snorlax",
       type: 'Normal',
       averageWeight: {
@@ -88,7 +88,7 @@ const pokemons = [
       moreInfo: "https://bulbapedia.bulbagarden.net/wiki/Snorlax_(Pok%C3%A9mon)"
   },
   {
-      id: 148,
+      id: 8,
       name: "Dragonair",
       type: 'Dragon',
       averageWeight: {
