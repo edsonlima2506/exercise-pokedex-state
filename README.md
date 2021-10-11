@@ -34,7 +34,8 @@ Agora basta criar o PULL REQUEST clicando no botão `Create Pull Request`.
 
 Para cada PR realize esse processo.
 
-![Pokedex finalizada](images/pokedex.gif)
+![pokedexFinalizada](https://user-images.githubusercontent.com/81549048/136727270-1119ba36-cb90-402f-84b2-11e472783a15.gif)
+
 
 <h1>💻 Tecnologias: </h1>
  
