@@ -1,4 +1,6 @@
 Esse é um projeto para o conteúdo de `Componentes com estado`.
+<p>O intuito do projeto foi criar uma interface simulando uma pokedex <br>
+ utilizando componentes com estado no React </p<
 
 ### Antes de iniciar
 
