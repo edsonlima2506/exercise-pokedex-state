@@ -1,6 +1,10 @@
+# Pokedex State
+
 Esse é um projeto para o conteúdo de `Componentes com estado`.
 <p>O intuito do projeto foi criar uma interface simulando uma pokedex <br>
- utilizando componentes com estado no React </p<
+ utilizando componentes com estado no React </p>
+ 
+ ## Resultado Final:
 
 ![pokedexFinalizada](https://user-images.githubusercontent.com/81549048/136727270-1119ba36-cb90-402f-84b2-11e472783a15.gif)
 
